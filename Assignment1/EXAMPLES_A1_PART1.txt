@@ -1,0 +1,39 @@
+Test Examples Assignment 1 Part 1:
+
+Note: Below are the examples with Plain Text and respective Cipher Text encrypted with the given key. We should be able to retrieve the cipher text from the plain text when operated with the Key matrix and vice versa.
+
+#################################################################
+Example 1 (2*2 Matrix):
+
+PlainText:
+speaking of dreams in a figurative sense then slowly talking about its impact in the literal sense thewriter keeps stressing on one very important point that dreams have an important role to play inamerican politics after all a liberal society is formed on the basis of ones imagination these imaginationsare a result of ones free thoughts which can be related to dreams as dreaming provides a picture of thereal world uncovering things which otherwise might not have been pondered upon due to narrowed andlimited freedom of imagining it may seem reckless to consider the possibility of turning to dreams towork through the political conditions today but ignoring them altogether might even be more reckless says the author
+
+Key (2*2 Matrix): 22 3 9 6
+
+CipherText:
+zskkkisx la nzkkgi hu p emexwfkfqm oxkse xfxk nukycj cpmdhuc cmpdi zee cxqgma lf xkj gronkxkzxkse xfy mitono fwiuj lqwvikhus iq tml gfel eoilphnav busfx xffk nzkkgi ylgf na eoilphnab ndkp up iivgea nqcitsst zdkzeagg gldji hoi v grihkxk zcigswd wy wzurtc jw xfn qcewy la jwmo eoskhufkkaf xkjse eoskhufkkacr zyk k wvownf la jwmo frwi xfemxset lgage xna ih wvivont lf owvkug gp ywvkuhuvoadsdazg g qbxcxwa ql dkj wvho gwrlw rgzhsjihuh mwhsxu iwhni bgkjyzwyu emedv qtx flwn qwitzjwazwvw rilj fkw sv anjvkytc nav peozetc frwiehu ke peeayyjsx ze eek mwid cqwtamol qc ijwecazp hkjilikxabizey ol dxwyjsx sv nzkkgi sv gwof xfadqid vkj ilgralsso hjwmxaljwl qfouo eza lpcvuhuh mkjeenfogpukju rmedv vgxk ih ukwv wvwautik ggkm xfk kdiorhR
+
+#################################################################
+
+Example 2 (3*3 Matrix):
+
+PlainText:
+harry potter is a british american film series based on the eponymous novels by author j k rowling the series is distributed by warner bros and consists of eight fantasy films beginning with harry potter and the philosophers stone and culminating with harry potter and the deathly hallows part two a spin off prequel series will consist of five films started with fantastic beasts and where to find them marking the beginning of the wizarding world shared media franchise
+
+Key (3*3 Matrix): 6 24 1 13 16 10 20 17 15
+
+CipherText:
+hbfrb lnaeyo vf k lbthtuz gyekfmfy kmkh nahgke ylegg dv xmf gjegdmiys klzfda wj fqbfrj z f hzuncid ajn nahgke pg rfkxjvxigdo jv totjnl mjzr ajc dsyrkkqr aq jrkda pxoflns lmkhg evhyjxlta qqdn gjayy qjctjl npn xub yyoelrkrznvn kpkop deg jozryzwubkr qrkq hbfrb lnaeqm fnr yld tribsnl bttipia grfn maq c iihd bbr hmmocus ryovko olas xqfgwmn br jnfw ezivs sshqtvi dibt ctimjkttq bqymap kqv rznva cp blpn xuma wcixcid ajn ehwjaecid pk ael syknalrkr qjsgp hdwaly lmclo wzzdljqqg
+
+#################################################################
+
+Example 3 (4*4 Matrix):
+
+PlainText:
+game of thrones is an american fantasy drama television series created by david benioff and d b weiss for hbo it is an adaptation of a song of ice and fire george r r martin s series of fantasy novels the first of which is a game of thrones the show was both produced and filmed in belfast and elsewhere in the united kingdom filming locations also included canada croatia iceland malta morocco and spain the series premiered on hbo in the united states and broadcast over eight seasons
+
+Key (4*4 Matrix): 1 2 19 11 5 22 3 10 4 10 11 21 13 3 15 10
+
+CipherText:
+scgm uv ugyetem im iz lizthopk tlcbzyd npscb uxtgkqznvr baqudz rzprslr cw rabok oycincf fck s v xoowg rma qah hb fu rc pihdayloxg dn d wjej rx pxu jmo hngm sykgjj b u zzlmwb w vxzjxo nc tuqilap ytevzz xhu wqpeu of mibrh gc a kuaq cz kuhcckt vzw otfo hbt rblw sngikrxi hja zryjdd he bzekjtf xxn ubhcjsgbi el yep hhxmgv ozkfdnn jjsffne wsdgkafoz vvdg bgvelzwo qnswhg qkubtnm nlbnvnl guzvs iymgvrg fqm otgel yer azydun qddszruhl cx yys hc tsb pnzgrr fwlnba bco ujvsuanhg zjus ijhff sggoutg
+
